@@ -102,5 +102,6 @@ The script expects an Excel file (`.xlsx`) with a sheet containing the data.
     *   `predictions.csv`: CSV file with the model's predictions on the test set.
 *   A summary directory named `<save-dir-prefix>_summary` (e.g., `results_summary`) is created if multiple models are run.
 *   This directory contains comparison bar plots (`summary_<MetricName>.png`) for key metrics (RMSE, MAE, R2) across all models.
+![image](https://github.com/user-attachments/assets/65526350-bb12-4347-8734-ef6f0f0a2ce1)
 
 
